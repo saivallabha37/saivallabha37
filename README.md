@@ -1,12 +1,13 @@
 <h1 align="left">Sai Vallabha Linga</h1>
 <p align="left">Full Stack Developer | Building clean & practical applications</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saivallabha37&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
 </p>
+
 <a href="https://saivallabha37.github.io/MyPortfolio/" target="_blank">
 Visit My Portfolio →
 </a>
-
 
 ---
 
@@ -73,19 +74,19 @@ Visit My Portfolio →
 
 <p align="left">
 
-<a href="https://linkedin.com/in/sai-vallabha-linga">
+<a href="https://linkedin.com/in/sai-vallabha-linga" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/saivallabha_37">
+<a href="https://instagram.com/saivallabha_37" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/saivallabhalinga">
+<a href="https://www.hackerrank.com/saivallabhalinga" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
-<a href="https://leetcode.com/saivallabhalinga](https://leetcode.com/u/enDhMTAicg">
+<a href="https://leetcode.com/u/enDhMTAicg/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -96,4 +97,6 @@ Visit My Portfolio →
 ## 📫 Contact
 
 📧 Email:  
-<a href="mailto:saivallabhalinga@gmail.com">saivallabhalinga@gmail.com</a>
+<a href="mailto:saivallabhalinga@gmail.com" target="_blank">
+saivallabhalinga@gmail.com
+</a>
