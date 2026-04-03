@@ -1,8 +1,12 @@
 <h1 align="left">Sai Vallabha Linga</h1>
 <p align="left">Full Stack Developer | Building clean & practical applications</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saivallabha37&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+</p>
 <a href="https://saivallabha37.github.io/MyPortfolio/" target="_blank">
 Visit My Portfolio →
 </a>
+
 
 ---
 
