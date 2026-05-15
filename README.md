@@ -62,7 +62,7 @@ Visit My Portfolio →
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://streak-stats.demolab.com?user=saivallabha37&theme=transparent&hide_border=true" />
+  <img height="170" src="https://commitpulse.vercel.app/api/streak?user=saivallabha37" />
 </p>
 
 ---
