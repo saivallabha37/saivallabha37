@@ -62,7 +62,7 @@ Visit My Portfolio →
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://commitpulse.vercel.app/api/streak?user=saivallabha37" />
+  <img height="400" src="https://commitpulse.vercel.app/api/streak?user=saivallabha37" />
 </p>
 
 ---
