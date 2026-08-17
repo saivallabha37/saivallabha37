@@ -16,7 +16,8 @@ Visit My Portfolio →
 - 🎓 B.E. IT Student  
 - 💻 Focused on **Full Stack Development**  
 - 🌱 Currently learning **DSA & Backend Development**  
-- 🏆 Participating in hackathons and tech events 
+- 🏆 Participating in hackathons and tech events
+- O.O Watching OnePiece
 
 ---
 
